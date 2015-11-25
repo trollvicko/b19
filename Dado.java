@@ -18,7 +18,7 @@ public class Dado {
             contatore++;
         } while (x != y);
             
-        System.out.println("n.lanci="+contatore+".\nContemporaneamente nei due dadi il "+x);
+        System.out.println("n.lanci="+contatore+".\nContemporaneamente nei due dadi il "+x+".");
     }
     
     
